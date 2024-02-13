@@ -1,10 +1,10 @@
 module github.com/chack1920/fiber-easyrest
 
-go 1.21.6
+go 1.22.0
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.0
-	gorm.io/gorm v1.25.6
+	gorm.io/gorm v1.25.7
 )
 
 require (
